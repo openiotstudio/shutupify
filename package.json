@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikehenrty/shutupify/issues"
   },
-  "homepage": "https://github.com/mikehenrty/shutupify#readme"
+  "homepage": "https://github.com/mikehenrty/shutupify#readme",
+  "dependencies": {
+    "pi-gpio": "0.0.8"
+  }
 }
